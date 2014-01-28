@@ -72,6 +72,7 @@ body {
 
 .logo {
     height: 4.5rem;
+    width: auto;
     margin: .5rem 5%;
     
     /* float: right; */
